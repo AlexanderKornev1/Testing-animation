@@ -1,7 +1,8 @@
 # Testing-animation
 
 ,,,
-RoundedRectangle(cornerRadius: 10)
+
+RoundedRectangle(cornerRadius: 10)  
                 .fill(Color.green)
                 .frame(width: cardW, height: cardH)
                 
